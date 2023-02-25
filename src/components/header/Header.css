@@ -1,0 +1,48 @@
+h1{
+    height: 50vh;
+    font-size: 15vh;
+    color: white;
+    font-family: "Lobster",cursive;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.header h1{
+    color: #eee;
+    font-size: 5rem;
+    margin-bottom: 4rem;
+    font-weight: 400;
+}
+
+
+
+
+.mouse {
+    display:flex ;
+    justify-content: center;
+    font-size: 40px;
+    height: 10vh;
+    width: 100%;
+    color: #eee;
+}
+
+
+.first {
+    display:flex ;
+    justify-content: center;
+    margin-top: 1px;
+    width: 100%;
+    color: #eee;
+    height: 7.5vh;
+} 
+
+.second, .third {
+    display:flex ;
+    justify-content: center;
+    margin-top: -30px;
+    width: 100%;
+    color: #eee;
+    height: 7.5vh;
+}
