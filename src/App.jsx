@@ -1,5 +1,5 @@
-import Header from "./components/header/Header"
-import Food from './components/Data/Data'
+import Header from "./Header/Header"
+import Food from './components/Food'
 function App() {
   return (
     <div className="App">
